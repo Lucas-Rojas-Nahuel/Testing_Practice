@@ -10,7 +10,6 @@ El objetivo es practicar y reforzar conceptos de programación, testing y buenas
 TESTING PRACTICE
 
 │── node_modules/ # dependencias instaladas
-
 │── src/ # código fuente
 │ ├── utils/ # funciones auxiliares
 │ │ ├── cipherLetter.js
