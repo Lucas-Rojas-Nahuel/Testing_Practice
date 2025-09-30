@@ -10,26 +10,47 @@ El objetivo es practicar y reforzar conceptos de programación, testing y buenas
 TESTING PRACTICE
 
 │── node_modules/ # dependencias instaladas
+
 │── src/ # código fuente
+
 │ ├── utils/ # funciones auxiliares
+
 │ │ ├── cipherLetter.js
+
 │ │ └── reorderAlphabetByIndex.js
+
 │ ├── analyzeArray.js
+
 │ ├── caesarCipher.js
+
 │ ├── calculator.js
+
 │ ├── capitalize.js
+
 │ └── reverseString.js
+
 │
+
 │── test/ # tests unitarios
+
 │ ├── analyzeArray.test.js
+
 │ ├── caesarCipher.test.js
+
 │ ├── calculator.test.js
+
 │ ├── capitalize.test.js
+
 │ └── reverseString.test.js
+
 │
+
 │── babel.config.js
+
 │── package.json
+
 │── package-lock.json
+
 
 ---
 
