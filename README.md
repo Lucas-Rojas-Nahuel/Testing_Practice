@@ -8,7 +8,9 @@ El objetivo es practicar y reforzar conceptos de programación, testing y buenas
 ## 📂 Estructura del proyecto
 
 TESTING PRACTICE
+
 │── node_modules/ # dependencias instaladas
+
 │── src/ # código fuente
 │ ├── utils/ # funciones auxiliares
 │ │ ├── cipherLetter.js
