@@ -13,35 +13,35 @@ TESTING PRACTICE
 
 │── src/ # código fuente
 
-│ ├── utils/ # funciones auxiliares
+│    ├── utils/ # funciones auxiliares
 
-│ │ ├── cipherLetter.js
+│    │     ├── cipherLetter.js
 
-│ │ └── reorderAlphabetByIndex.js
+│    │     └── reorderAlphabetByIndex.js
 
-│ ├── analyzeArray.js
+│    ├── analyzeArray.js
 
-│ ├── caesarCipher.js
+│    ├── caesarCipher.js
 
-│ ├── calculator.js
+│    ├── calculator.js
 
-│ ├── capitalize.js
+│    ├── capitalize.js
 
-│ └── reverseString.js
+│    └── reverseString.js
 
 │
 
 │── test/ # tests unitarios
 
-│ ├── analyzeArray.test.js
+│    ├── analyzeArray.test.js
 
-│ ├── caesarCipher.test.js
+│    ├── caesarCipher.test.js
 
-│ ├── calculator.test.js
+│    ├── calculator.test.js
 
-│ ├── capitalize.test.js
+│    ├── capitalize.test.js
 
-│ └── reverseString.test.js
+│    └── reverseString.test.js
 
 │
 
@@ -49,7 +49,7 @@ TESTING PRACTICE
 
 │── package.json
 
-│── package-lock.json
+└── package-lock.json
 
 
 ---
